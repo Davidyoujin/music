@@ -1,14 +1,14 @@
 {
        
     "data":{
-        "cookie":"2",
-        "versionCode":2,
+        "cookie":"1",
+        "versionCode":1,
         "versionName":"1.0.1",
         "showad":false,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
-        "updateInfo":"com.musicpro.downloader.qswr",
-        "url":"https://play.google.com/store/apps/details?id=com.musicpro.downloader.qswr",
+        "updateInfo":"com.music.freedownloader.sdfa",
+        "url":"https://play.google.com/store/apps/details?id=com.music.freedownloader.sdfa",
         "update":false,
         "showU3d":true,
         "forceUpdate":false,
