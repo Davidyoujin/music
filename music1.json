@@ -14,12 +14,14 @@
         "forceUpdate":false,
         "tube":"1",
         "isMyDownload":true,
-         "vk":1
+        "kwcookie":"PQTJJ6QQ9F", 
+        "vk":1
     },
     "path":"app-debug.apk",
     "ads":{
          "app":"",  
            "id":""
     }
+      
   
 }
