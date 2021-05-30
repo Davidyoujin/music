@@ -5,7 +5,7 @@
         "versionCode":1,
         "versionName":"1.0.1",
         "showad":false,
-        "ytshow":false,
+        "ytshow":true,
         "Random":3,
         "updateInfo":"com.music.freedownloader.ddaf",
         "url":"https://play.google.com/store/apps/details?id=com.music.freedownloader.ddaf",
