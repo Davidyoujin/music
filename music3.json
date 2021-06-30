@@ -1,10 +1,10 @@
 {
        
     "data":{
-        "cookie":"1",
+        "cookie":"2",
         "versionCode":1,
         "versionName":"1.0.1",
-        "showad":true,
+        "showad":false,
         "ytshow":false,
         "Random":3,
         "updateInfo":"com.musixyt.downloader.pro",
