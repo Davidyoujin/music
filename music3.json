@@ -4,7 +4,7 @@
         "cookie":"1",
         "versionCode":1,
         "versionName":"1.0.1",
-        "showad":false,
+        "showad":true,
         "ytshow":true,
         "Random":3,
         "updateInfo":"com.musixyt.downloader.pro",
