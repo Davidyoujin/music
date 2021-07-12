@@ -5,7 +5,7 @@
         "versionCode":1,
         "versionName":"1.0.1",
         "showad":false,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "updateInfo":"com.musixyt.downloader.pro",
         "url":"https://play.google.com/store/apps/details?id=com.musixyt.downloader.pro",
