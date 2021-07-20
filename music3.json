@@ -1,7 +1,7 @@
 {
        
     "data":{
-        "cookie":"2",
+        "cookie":"1",
         "versionCode":5,
         "versionName":"1.0.5",
         "showad":false,
@@ -15,7 +15,7 @@
         "tube":"1",
         "isMyDownload":true,
         "kwcookie":"PQTJJ6QQ9F", 
-        "vk":1    
+        "vk":2   
     },
     "path":"app-debug.apk",
     "ads":{
