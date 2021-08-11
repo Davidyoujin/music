@@ -1,11 +1,11 @@
 {
        
     "data":{
-        "cookie":"1",
-        "versionCode":5,
-        "versionName":"1.0.5",
+        "cookie":"2",
+        "versionCode":4,
+        "versionName":"1.0.4",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "updateInfo":"",
         "url":"https://play.google.com/store/apps/details?id=",
