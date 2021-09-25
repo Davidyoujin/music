@@ -4,7 +4,7 @@
         "cookie":"1",
         "versionCode":6,
         "versionName":"1.0.6",
-        "showad":false,
+        "showad":true,
         "ytshow":false,
         "Random":3,
         "updateInfo":"com.music.freedownloader.ddaf",
