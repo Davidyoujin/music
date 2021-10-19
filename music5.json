@@ -5,7 +5,7 @@
         "versionCode":5,
         "versionName":"1.0.5",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "updateInfo":"com.music.ddload.gdo",
         "url":"https://play.google.com/store/apps/details?id=com.music.ddload.gdo",
