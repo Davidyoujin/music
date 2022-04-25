@@ -5,7 +5,7 @@
         "versionCode":2,
         "versionName":"1.0.2",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "updateInfo":"com.songffr.tsdfa.yyte",
         "url":"https://play.google.com/store/apps/details?id=com.songffr.tsdfa.yyte",
